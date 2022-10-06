@@ -1,5 +1,6 @@
 
-## Hello there, I'm Laura. I switched careers into tech 👩🏼‍💻 from a teaching background.  <br>
+## Hello there, I'm Laura. 
+## I switched careers into tech 👩🏼‍💻 from a teaching background.  <br>
 
 <br>
 
@@ -18,9 +19,11 @@
 
 <br>
 
+
+## Technical Skills
 ___
-## Technicl Skills
 <br>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
