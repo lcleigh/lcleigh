@@ -1,18 +1,19 @@
 
-## Hello there, I'm Laura. 
-## I switched careers into tech 👩🏼‍💻 from a teaching background.  <br>
+## Hello there 👋🏻 , I'm Laura. 
+### I switched careers into tech 👩🏼‍💻 from a teaching background.  <br>
+___
 
 <br>
 
  - 💻 I am currently a Junior Software Engineering Apprentice.
 
- - 🏋🏼‍♀️ Currently lerning in a Software Enginerring bootcamp with Makers.
+ - 🏋🏼‍♀️ Currently lerning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
 
- - 💪🏼 Completed a bootcamp in Software Development with TechUP.
+ - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
- - 💕 Currently a #100cajigowomen mentee.
+ - 💕 Currently a [#100cajigowomen](http://www.structur3dpeople.co.uk/cajigo/) mentee.
 
- - 👩🏼‍🏫 I'm a Code Club leader.
+ - 👩🏼‍🏫 I'm a [Code Club](https://codeclub.org/en/) leader.
 
  - 🧮 I taught Maths in secondary schools for 10 years.
 
@@ -32,13 +33,21 @@ ___
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## My GitHub Stats
+___
+<br>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lcleigh&langs_count=5&theme=gruvbox_light)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lcleigh&count_private=true&theme=gruvbox_light&showicons=true)]()
 
+## Connect with me
+___
+<html>
+<a href="https://www.linkedin.com/in/laura-leigh-7861bb196/"><img src="linkedin.png" width="50px"></a>
+<a href="https://twitter.com/thismumcancode"><img src="twitter.png" width="50px"></a>
 
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+</html>
 
 
 
