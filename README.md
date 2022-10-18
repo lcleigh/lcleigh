@@ -7,7 +7,7 @@ ___
 
  - 💻 I am currently a Junior Software Engineer Apprentice.
 
- - 🏋🏼‍♀️ Currently lerning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
+ - 🏋🏼‍♀️ Currently learning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
