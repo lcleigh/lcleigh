@@ -5,7 +5,7 @@ ___
 
 <br>
 
- - 💻 I am currently a Junior Software Engineering Apprentice.
+ - 💻 I am currently a Junior Software Engineer Apprentice.
 
  - 🏋🏼‍♀️ Currently lerning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
 
