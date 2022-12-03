@@ -4,6 +4,7 @@
 ___
 
 <br>
+ - 🎄 Currently participating in [Advent Of Code](https://adventofcode.com/2022/about).
 
  - 💻 I am currently a Junior Software Engineer Apprentice.
 
