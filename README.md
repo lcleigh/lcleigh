@@ -4,12 +4,12 @@
 ___
 
 <br>
- 
+
  - 🎄 I am currently participating in [Advent of Code 2022](https://adventofcode.com/2022/about).
 
- - 💻 I am currently a Junior Software Engineering Apprentice.
+ - 💻 I am currently a Junior Software Engineer Apprentice.
 
- - 🏋🏼‍♀️ Currently lerning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
+ - 🏋🏼‍♀️ Currently learning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
