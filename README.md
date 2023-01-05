@@ -44,7 +44,7 @@ ___
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lcleigh&langs_count=4&theme=gruvbox_light)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lcleigh&count_private=true&theme=gruvbox_light&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lcleigh&count_private=true&theme=gruvbox_light&showicons=false)]()
 
 ## Connect with me
 ___
