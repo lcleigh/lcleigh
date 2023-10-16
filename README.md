@@ -5,15 +5,13 @@ ___
 
 <br>
 
- - 🎄 I am currently participating in [Advent of Code 2022](https://adventofcode.com/2022/about).
-
  - 💻 I am currently a Junior Software Engineer Apprentice.
 
- - 🏋🏼‍♀️ Currently learning in a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
+ - 🏋🏼‍♀️ Completed a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
- - 💕 Currently a [#100cajigowomen](http://www.structur3dpeople.co.uk/cajigo/) mentee.
+ - 💕 Currently a [#100cajigowomen](http://www.structur3dpeople.co.uk/cajigo/) mentor.
 
  - 👩🏼‍🏫 I'm a [Code Club](https://codeclub.org/en/) leader.
 
