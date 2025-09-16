@@ -5,15 +5,13 @@ ___
 
 <br>
 
- - 💻 I am currently a Junior Software Engineer Apprentice.
+ - 💻 I am currently a Software Engineer looking for my next amazing opportunity.
 
- - 🏋🏼‍♀️ Completed a Software Enginerring bootcamp with [Makers](https://www.makers.tech/).
+ - 🏋🏼‍♀️ Completed a Software Engineering bootcamp with [Makers](https://www.makers.tech/).
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
- - 💕 Currently a [#100cajigowomen](http://www.structur3dpeople.co.uk/cajigo/) mentor.
-
- - 👩🏼‍🏫 I'm a [Code Club](https://codeclub.org/en/) leader.
+ - 👩🏼‍🏫 I'm a [codebar Nottingham]([https://codeclub.org/en/](https://codebar.io/nottingham)) organiser and run workshops in Notts city centre every month.
 
  - 🧮 I taught Maths in secondary schools for 10 years.
 
