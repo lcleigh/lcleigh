@@ -15,7 +15,7 @@ ___
 
  - 🧮 I taught Mathematics in secondary schools for 10 years.
 
- - I have a degree in Mathematics from **Coventry University**.
+ - 👩‍🎓 I have a degree in Mathematics from **Coventry University**.
 
 
 <br>
