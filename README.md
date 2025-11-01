@@ -5,15 +5,17 @@ ___
 
 <br>
 
- - 💻 I am currently a Software Engineer looking for my next amazing opportunity.
+ - 💻 I am currently a **Software Engineer** looking for my next amazing opportunity.
 
- - 🏋🏼‍♀️ Completed a Software Engineering bootcamp with [Makers](https://www.makers.tech/).
+ - 🎓 Completed a **Level 4 Software Engineering Apprenticeship** with [Makers](https://www.makers.tech/) gaining a ⭐ Distinction ⭐.
+
+ - 👩🏼‍🏫 I'm a [codebar Nottingham]([https://codeclub.org/en/](https://codebar.io/nottingham)) organiser and run workshops in **Nottingham city** centre every month.
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
- - 👩🏼‍🏫 I'm a [codebar Nottingham]([https://codeclub.org/en/](https://codebar.io/nottingham)) organiser and run workshops in Notts city centre every month.
+ - 🧮 I taught Mathematics in secondary schools for 10 years.
 
- - 🧮 I taught Maths in secondary schools for 10 years.
+ - I have a degree in Mathematics from **Coventry University**.
 
 
 <br>
