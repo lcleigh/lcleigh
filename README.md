@@ -18,6 +18,14 @@
 
 <br>
 
+## Awards and Nominations
+
+- 🏆 WINNER 🏆 [Makers Women in Software 2024](https://apply.makers.tech/womeninsoftware2024) Power List Award
+
+- 🏆 SPECIAL RECOGNITION 🏆 [Makers Apprenticeship Awards 2024](https://www.makers.tech/) Impact Award
+
+- 🏆 NOMINEE 🏆 [Peterborough Apprenticeship Awards 2023](https://www.nationalworldevents.com/paa-2023/finalists/) Technology and Digital Apprentice of the Year
+
 
 ## Technical Skills
 <br>
