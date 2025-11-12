@@ -11,7 +11,7 @@
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
- - 🧮 I taught Mathematics in secondary schools for 10 years.
+ - 🧮 I am a qualified Maths teacher and taught all levels and ages in secondary schools for 10 years.
 
  - 👩‍🎓 I have a degree in Mathematics from **Coventry University**.
 
