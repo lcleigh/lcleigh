@@ -7,7 +7,7 @@
 
  - 🎓 Completed a **Level 4 Software Engineering Apprenticeship** with [Makers](https://www.makers.tech/) gaining a ⭐ Distinction ⭐.
 
- - 👩🏼‍🏫 I'm a [codebar Nottingham]([https://codeclub.org/en/](https://codebar.io/nottingham)) organiser and run workshops in **Nottingham city** centre every month.
+ - 👩🏼‍🏫 I'm a [codebar Nottingham](https://codebar.io/nottingham) organiser and run workshops in **Nottingham city** centre every month.
 
  - 💪🏼 Completed a bootcamp in Software Development with [Techup](https://techuponline.thinkific.com/).
 
