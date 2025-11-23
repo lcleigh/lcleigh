@@ -15,6 +15,8 @@
 
  - 👩‍🎓 I have a degree in Mathematics from **Coventry University**.
 
+![Codewars](https://github.r2v.ch/codewars?user=lcleigh&Laura=true&top_languages=true&stroke=%23b362ff&theme=purple_light)
+
 
 <br>
 
